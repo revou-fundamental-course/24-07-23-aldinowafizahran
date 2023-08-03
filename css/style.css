@@ -1,0 +1,210 @@
+
+/* Header */
+hr.solid2 {
+    border-bottom: 1px solid rgb(238, 241, 245);
+    margin-bottom: 40px;
+    max-width: 100%;
+    margin-right: 22px;
+ }
+
+.forA{
+    text-decoration: none;
+    color: black;
+}
+
+#logoimg {
+    width: 40px ;
+    margin-left: 22px;
+}
+
+#navheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 22px;
+}
+
+#navigation{
+    display: flex;
+}
+
+#titleheader{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+#slogan{
+    color: rgb(121, 141, 163);
+}
+.tablefornav{
+    border: 2px solid black;
+}
+
+.tablefornav1{
+    border: 1px solid black;
+}
+
+
+/* Main */
+
+#callUs{
+    display: flex;
+    gap: 100px;
+
+}
+#article{
+    flex-basis: 50%;
+   
+}
+
+.mySlides{
+    display: none;
+}
+
+#bannerimage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img0{
+    width: 100%;
+}
+
+#bannertext{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#tableforbannername{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#benefits{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#OurPackage{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(237, 240, 244);
+    align-items: center;
+    height: 120px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    font-size: 35px;
+    font-family: Calibri;
+}
+
+#name{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid lightgrey;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#email{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid lightgrey;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#interest{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid lightgrey;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#formcontact{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+#inputform{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 70%;
+}
+
+#contactus{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+/* footer */
+
+.image2 {
+    width: 40px ;
+    vertical-align: text-top;
+    margin-right: 10px;
+}
+
+hr.solid {
+    border-bottom: 3px solid #bbb;
+    width: 90px;
+ }
+
+.table1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+ }
+
+ #footerheader{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
+
+ .buttoncalltoaction {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-bottom: 50px;
+  } 
+
+.buttonfoot {background-color: black;}
+
+#slogan2{
+    color: rgb(70, 48, 2);
+}
+
+
+
+
+
+
+ 
+ 
