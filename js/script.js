@@ -21,7 +21,7 @@ function validateForm() {
     document.getElementById("interestError").innerText = "Please select an option.";
     return false;
   }
-  return true;
+  window.location.href = 'https://revou.co';
 }
 
 let slideIndex = 0;
